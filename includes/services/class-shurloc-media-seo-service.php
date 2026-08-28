@@ -9,6 +9,8 @@
 
 declare( strict_types=1 );
 
+namespace Shurloc\MediaTools;
+
 defined( 'ABSPATH' ) || exit;
 
 /**
