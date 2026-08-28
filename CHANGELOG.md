@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.1] - 2026-08-28
+
+### Changed
+
+- Corrected typo in plugin header.
+
 ## [0.1.0] - 2026-08-28
 
 ### Added

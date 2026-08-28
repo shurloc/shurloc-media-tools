@@ -24,4 +24,4 @@ Plugin classes and tests use the `Shurloc\MediaTools` namespace.
 
 ## Version
 
-Current release: **0.1.0**
+Current release: **0.1.1**
