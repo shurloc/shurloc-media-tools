@@ -37,3 +37,9 @@ require_once dirname( __DIR__, 2 ) . '/shurloc-tools/includes/interfaces/interfa
 /**
  * Load stubs and test doubles.
  */
+
+require_once __DIR__ . '/stubs/wordpress-functions.php';
+
+require_once __DIR__ . '/doubles/class-wp-query.php';
+
+require_once dirname( __DIR__ ) . '/includes/constants.php';
