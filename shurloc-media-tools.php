@@ -3,7 +3,7 @@
  * Plugin Name:       Shur-loc Media Tools
  * Plugin URI:        https://github.com/shurloc/shurloc-media-tools
  * Description:       Media tools for the Shur-loc website.
- * Version:           0.1.1
+ * Version:           0.1.2
  * Requires at least: 7.0
  * Requires PHP:      8.4
  * Requires Plugins:  shurloc-tools
